@@ -36,9 +36,8 @@ I'm also proficient in test automation with Selenium, SQL databases (MySQL and P
 
 A project showcasing a web application built with Spring Boot, demonstrating my expertise in creating modern Java-based applications.
 
-### [Test Automation with Selenium](https://github.com/yourusername/test-automation-selenium)
-
-Brief description of the project, showcasing Java, Selenium, and TestNG for automation testing.
+### ["Saucedemo" site](https://github.com/kostantin-bozovic/FinalProject)
+Project involved performing both manual and automated tests on the <i>eCommerce</i> and <i>Shopping</i> site "Saucedemo". <br>Tested critical functions like Login, Shopping Cart and Checkout. ( DDT, POM, Selenium )
 
 ### [API Testing with Postman](https://github.com/yourusername/api-testing-postman)
 
