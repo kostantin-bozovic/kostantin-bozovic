@@ -29,12 +29,6 @@ Project involved performing both manual and automated tests on the <i>eCommerce<
 Project DemoQA, a site where I had the chance to do automated testing with Selenium.<br>
 Tested: Web Table, Registration Form, Check Box, Radio Buttons, Drop menu, Dynamic buttons
 
-## 📈 GitHub Stats
-<img src="https://github-readme-stats.vercel.app/api?username=kostantin-bozovic&show_icons=true&theme=radical" width="500" alt="Konstantin's GitHub Stats">
-
-
-
-
 ## 💼 Skills
 
 - Java Development
