@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Konstantin from Belgrade 🏙️</h1>
-I'm a Computer Science enthusiast with a High School degree. I completed QA training at <b>IT Bootcamp</b>, mastering both manual and automated testing. Now, I'm on a journey to further develop my skills in QA and Web Development using the Java programming language.
+I'm a Computer Science enthusiast with a High School degree. Completed QA training at <b>IT Bootcamp</b>, mastering both manual and automated testing. Now, I'm on a journey to further develop my skills in QA and Web Development using the Java programming language.
 
 ## 🔧 Technologies & Tools
 
