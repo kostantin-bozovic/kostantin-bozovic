@@ -12,7 +12,7 @@
 
 ## 🌱 Currently Learning
 
-- Exploring advanced Java concepts
+- Enhancing skills in the field of software quality.
 
 ## 🚀 Projects
 
