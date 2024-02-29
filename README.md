@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Konstantin from Belgrade 🏙️</h1>
-I'm a Computer Science enthusiast. Completed QA training at <b>IT Bootcamp</b>, completed both manual and automated testing. Now, I'm on a journey to further develop my skills in QA.
+I'm a Computer Science enthusiast. I have completed QA training at <b>IT Bootcamp</b>, completed both manual and automated testing. Now, I'm on a journey to further develop my skills in QA.
 
 ## 🔧 Technologies & Tools
 
